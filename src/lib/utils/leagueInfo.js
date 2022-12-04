@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Look If you had one shot, or one opportunity To seize everything you ever wanted One moment Would you capture it or just let it slip? Yo.</p>
+  <p>Look If you had one shot, or one opportunity To seize everything you ever wanted One moment Would you capture it or just let it slip?</p>
 `;
 
 /*   STEP 3   */
